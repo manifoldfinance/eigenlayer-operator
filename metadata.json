@@ -1,1 +1,7 @@
-{"name":"Manifold Finance","website":"https://manifoldfinance.com","description":"Sophisticated operators in the financial market space","logo":"https://raw.githubusercontent.com/manifoldfinance/eigenlayer-operator/main/logo.png","twitter":"https://x.com/foldfinance"}
+{
+  "name": "Manifold Finance",
+  "website": "https://manifoldfinance.com",
+  "description": "Sophisticated operators in the financial market space",
+  "logo": "https://raw.githubusercontent.com/manifoldfinance/eigenlayer-operator/main/logo.png",
+  "twitter": "https://x.com/foldfinance"
+}
